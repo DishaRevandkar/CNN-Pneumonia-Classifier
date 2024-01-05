@@ -8,3 +8,4 @@ Model Architecture
 
 The implemented CNN architecture consists of multiple convolutional layers, max-pooling layers, batch normalization, dropout layers, and dense layers. The model is compiled using the Adam optimizer and binary cross-entropy loss.
 
+Rest of the details can be found in the report pdf.
